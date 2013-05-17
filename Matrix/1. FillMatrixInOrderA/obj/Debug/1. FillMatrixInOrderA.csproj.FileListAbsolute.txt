@@ -1,0 +1,6 @@
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\1. FillMatrixInOrderA\bin\Debug\_1.FillMatrixInOrderA.exe.config
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\1. FillMatrixInOrderA\bin\Debug\_1.FillMatrixInOrderA.exe
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\1. FillMatrixInOrderA\bin\Debug\_1.FillMatrixInOrderA.pdb
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\1. FillMatrixInOrderA\obj\Debug\1. FillMatrixInOrderA.csprojResolveAssemblyReference.cache
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\1. FillMatrixInOrderA\obj\Debug\_1.FillMatrixInOrderA.exe
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\1. FillMatrixInOrderA\obj\Debug\_1.FillMatrixInOrderA.pdb

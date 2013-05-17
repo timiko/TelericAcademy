@@ -1,0 +1,6 @@
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\2. SumOfSubArray3x3\bin\Debug\_2.SumOfSubArray3x3.exe.config
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\2. SumOfSubArray3x3\bin\Debug\_2.SumOfSubArray3x3.exe
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\2. SumOfSubArray3x3\bin\Debug\_2.SumOfSubArray3x3.pdb
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\2. SumOfSubArray3x3\obj\Debug\_2.SumOfSubArray3x3.exe
+c:\users\timiko.timiko-pc\documents\visual studio 2012\Projects\Multidimensional-Arrays\2. SumOfSubArray3x3\obj\Debug\_2.SumOfSubArray3x3.pdb
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\2. SumOfSubArray3x3\obj\Debug\2. SumOfSubArray3x3.csprojResolveAssemblyReference.cache

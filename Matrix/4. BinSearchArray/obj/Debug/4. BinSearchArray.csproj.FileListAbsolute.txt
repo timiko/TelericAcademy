@@ -1,0 +1,6 @@
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\4. BinSearchArray\bin\Debug\_4.BinSearchArray.exe.config
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\4. BinSearchArray\bin\Debug\_4.BinSearchArray.exe
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\4. BinSearchArray\bin\Debug\_4.BinSearchArray.pdb
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\4. BinSearchArray\obj\Debug\4. BinSearchArray.csprojResolveAssemblyReference.cache
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\4. BinSearchArray\obj\Debug\_4.BinSearchArray.exe
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\4. BinSearchArray\obj\Debug\_4.BinSearchArray.pdb

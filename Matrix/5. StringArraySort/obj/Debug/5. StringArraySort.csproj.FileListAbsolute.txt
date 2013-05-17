@@ -1,0 +1,5 @@
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\5. StringArraySort\bin\Debug\_5.StringArraySort.exe.config
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\5. StringArraySort\bin\Debug\_5.StringArraySort.exe
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\5. StringArraySort\bin\Debug\_5.StringArraySort.pdb
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\5. StringArraySort\obj\Debug\_5.StringArraySort.exe
+C:\Users\Timiko.Timiko-PC\Documents\Visual Studio 2012\Projects\Multidimensional-Arrays\5. StringArraySort\obj\Debug\_5.StringArraySort.pdb
